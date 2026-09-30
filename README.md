@@ -24,4 +24,4 @@ This repository contains the source code, files, and documentation related to th
 Clone the repository:
 
 ```bash
-git clone https://github.com/hackonix/REPOSITORY-NAME.git
+git clone https://github.com/hackonix/REPOSITORY-NAME.gitTraining
